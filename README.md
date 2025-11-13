@@ -24,4 +24,4 @@ Here I showcase real-world projects using **Python**, **MySQL**, and **Power BI*
 
 ## 📫 Contact
 📧 Email: infiniteora01@gmail.com  
-🌐 Portfolio: [https://username.github.io](https://username.github.io)
+
