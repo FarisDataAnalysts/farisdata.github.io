@@ -23,5 +23,5 @@ Here I showcase real-world projects using **Python**, **MySQL**, and **Power BI*
 ---
 
 ## 📫 Contact
-📧 Email: infiniteora01@gmail.com  
+📧 Email: analytics@infiniteora.com
 
